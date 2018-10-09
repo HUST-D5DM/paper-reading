@@ -1,6 +1,7 @@
 # paper-reading
   
 ### 20181009
+prod2vec:E-commerce in Your Inbox:Product Recommendations at Scale
 HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning  
 Atributed Network Embedding for Learning in a Dynamic Environment  
 ### 20180926
