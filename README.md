@@ -14,5 +14,5 @@ SY) GAN : An Overview
  Community Detection in Attributed Graphs An Embedding Approach
 ### 20180919
 ZRT) Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop  
- On Exploring Semantic Meanings of Links for Embedding Social Networks  
+SY) On Exploring Semantic Meanings of Links for Embedding Social Networks  
 
