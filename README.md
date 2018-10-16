@@ -1,16 +1,18 @@
 # paper-reading
-  
+
+
+### 20181016
+SY) Some basic Knowledge of Reinforcement Learning    
 ### 20181009
 PX) prod2vec:E-commerce in Your Inbox:Product Recommendations at Scale  
 SY) HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning  
 WL) Atributed Network Embedding for Learning in a Dynamic Environment  
 ### 20180926
 ZRT) Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks  
- CARL: Content Aware Representation Learning for Heterogeneous Networks  
+SY) CARL: Content Aware Representation Learning for Heterogeneous Networks  
 SY) GAN : An Overview 
  Community Detection in Attributed Graphs An Embedding Approach
 ### 20180919
 ZRT) Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop  
  On Exploring Semantic Meanings of Links for Embedding Social Networks  
-### 20181016
-SY) Some basic Knowledge of Reinforcement Learning  
+
