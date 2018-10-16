@@ -9,9 +9,8 @@ SY) HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Repres
 WL) Atributed Network Embedding for Learning in a Dynamic Environment  
 ### 20180926
 ZRT) Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks  
-SY) CARL: Content Aware Representation Learning for Heterogeneous Networks  
-SY) GAN : An Overview 
- Community Detection in Attributed Graphs An Embedding Approach
+WL) CARL: Content Aware Representation Learning for Heterogeneous Networks  
+SY) GAN : An Overview Community Detection in Attributed Graphs An Embedding Approach
 ### 20180919
 ZRT) Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop  
 SY) On Exploring Semantic Meanings of Links for Embedding Social Networks  
