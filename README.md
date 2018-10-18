@@ -2,7 +2,8 @@
 
 
 ### 20181016
-SY) Some basic Knowledge of Reinforcement Learning    
+SY) Some basic Knowledge of Reinforcement Learning
+WY) SHINE Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
 ### 20181009
 PX) prod2vec:E-commerce in Your Inbox:Product Recommendations at Scale  
 SY) HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning  
