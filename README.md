@@ -1,5 +1,7 @@
-# paper-reading
+# paper-reading  
 
+### 20181030  
+SY) Learning Graph Representations with Embedding Propagation  
 
 ### 20181016
 SY) Some basic Knowledge of Reinforcement Learning  
