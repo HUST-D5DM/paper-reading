@@ -1,8 +1,8 @@
 # paper-reading  
 
 ### 20181030  
-SY) Learning Graph Representations with Embedding Propagation  
-
+SY) Learning Graph Representations with Embedding Propagation   
+PX) Deep Interest Network for Click-Through Rate Prediction   
 ### 20181016
 SY) Some basic Knowledge of Reinforcement Learning  
 WY) SHINE Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
