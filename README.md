@@ -2,7 +2,8 @@
 
 ### 20181030  
 SY) Learning Graph Representations with Embedding Propagation   
-PX) Deep Interest Network for Click-Through Rate Prediction   
+PX) Deep Interest Network for Click-Through Rate Prediction  
+ZRT) Du-Parking: Spatio-Temporal Big Data Tells You Realtime Parking Availability
 ### 20181016
 SY) Some basic Knowledge of Reinforcement Learning  
 WY) SHINE Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
