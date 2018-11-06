@@ -1,5 +1,9 @@
 # paper-reading  
 
+### 20181106  
+SY) Multi-dimensional Network Embedding with Hirearchical Structure  
+WL) An attention based collaboration framework for multi view network representation Learning  
+
 ### 20181030  
 SY) Learning Graph Representations with Embedding Propagation   
 PX) Deep Interest Network for Click-Through Rate Prediction  
