@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20181120  
+SY) self-paced network embedding  
+
 ### 20181106  
 SY) Multi-dimensional Network Embedding with Hirearchical Structure  
 WL) An attention based collaboration framework for multi view network representation Learning  
