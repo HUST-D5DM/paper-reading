@@ -2,6 +2,7 @@
 
 ### 20181120  
 SY) self-paced network embedding  
+ZRT) Learning and Transferring IDs Representation in E-commerce
 
 ### 20181106  
 SY) Multi-dimensional Network Embedding with Hirearchical Structure  
