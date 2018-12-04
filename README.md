@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20181204   
+SY) Self-Translation Network Embedding   
+
 ### 20181127  
 SY) Inductive Representation Learning for Large Scale Networks
 
