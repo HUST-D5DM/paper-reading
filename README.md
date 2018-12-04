@@ -2,7 +2,8 @@
 
 ### 20181204   
 SY) Self-Translation Network Embedding  
-ZRT) Arbitrary-Order Proximity Preserved Network Embedding  
+ZRT) Arbitrary-Order Proximity Preserved Network Embeddin  
+PX) RippleNet  
 
 ### 20181127  
 SY) Inductive Representation Learning for Large Scale Networks
