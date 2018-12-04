@@ -2,7 +2,7 @@
 
 ### 20181204   
 SY) Self-Translation Network Embedding  
-ZRT) Arbitrary-Order Proximity Preserved Network Embeddin  
+ZRT) Arbitrary-Order Proximity Preserved Network Embedding  
 PX) RippleNet  
 
 ### 20181127  
