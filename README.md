@@ -1,7 +1,8 @@
 # paper-reading  
 
 ### 20181204   
-SY) Self-Translation Network Embedding   
+SY) Self-Translation Network Embedding  
+ZRT) Arbitrary-Order Proximity Preserved Network Embedding  
 
 ### 20181127  
 SY) Inductive Representation Learning for Large Scale Networks
