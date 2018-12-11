@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20181211  
+ZRT) High-order Proximity Preserving Information Network Hashing
+
 ### 20181204   
 SY) Self-Translation Network Embedding  
 ZRT) Arbitrary-Order Proximity Preserved Network Embedding  
