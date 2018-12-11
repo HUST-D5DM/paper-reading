@@ -2,6 +2,7 @@
 
 ### 20181211  
 ZRT) High-order Proximity Preserving Information Network Hashing
+WL) Real-time Personalization using Embeddings for Search Ranking at Airbnb
 
 ### 20181204   
 SY) Self-Translation Network Embedding  
