@@ -1,7 +1,7 @@
 # paper-reading  
 
 ### 20181211  
-ZRT) High-order Proximity Preserving Information Network Hashing
+ZRT) High-order Proximity Preserving Information Network Hashing  
 WL) Real-time Personalization using Embeddings for Search Ranking at Airbnb
 
 ### 20181204   
