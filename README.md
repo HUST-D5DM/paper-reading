@@ -1,6 +1,8 @@
 # paper-reading  
 
 ### 20181225  
+WL)Diffusion-Convolutional Neural Networks  
+WL)CANE: Context-Aware Network Embedding for Relation Modeling  
 
 ### 20181211  
 ZRT) High-order Proximity Preserving Information Network Hashing  
