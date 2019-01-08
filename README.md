@@ -1,5 +1,9 @@
 # paper-reading  
 
+### 20190108   
+SY) Seq2seq and Attention model   
+[attention is all you need blog is here](http://jalammar.github.io/illustrated-transformer/)   
+
 ### 20181225  
 WL)Diffusion-Convolutional Neural Networks  
 WL)CANE: Context-Aware Network Embedding for Relation Modeling  
