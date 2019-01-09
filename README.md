@@ -3,10 +3,11 @@
 ### 20190108   
 SY) Seq2seq and Attention model   
 [attention is all you need blog is here](http://jalammar.github.io/illustrated-transformer/)   
+ZRT) HinDroid An Intelligent Android Malware Detection System Based on Structured Heterogeneous Information Network  
 
 ### 20181225  
-WL)Diffusion-Convolutional Neural Networks  
-WL)CANE: Context-Aware Network Embedding for Relation Modeling  
+WL) Diffusion-Convolutional Neural Networks  
+WL) CANE: Context-Aware Network Embedding for Relation Modeling  
 
 ### 20181211  
 ZRT) High-order Proximity Preserving Information Network Hashing  
