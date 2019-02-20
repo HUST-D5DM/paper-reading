@@ -1,7 +1,8 @@
 # paper-reading  
 
 ### 20190220  
-ZRT) Representation Learning on Graphs with Jumping Knowledge Networks
+ZRT) Representation Learning on Graphs with Jumping Knowledge Networks  
+SY) Graph Convolutional Network  
 
 ### 20190108   
 SY) Seq2seq and Attention model   
