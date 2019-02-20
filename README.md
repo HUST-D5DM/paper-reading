@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190220  
+ZRT) Representation Learning on Graphs with Jumping Knowledge Networks
+
 ### 20190108   
 SY) Seq2seq and Attention model   
 [attention is all you need blog is here](http://jalammar.github.io/illustrated-transformer/)   
