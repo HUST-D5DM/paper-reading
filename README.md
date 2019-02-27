@@ -2,7 +2,7 @@
 
 ### 20190227  
 ZRT) Modeling Personalized Dynamics of Social Network and Opinion at Individual Level  
-
+FZX) Attributed Network Embedding for Incomplete Structure Information
 ### 20190220  
 ZRT) Representation Learning on Graphs with Jumping Knowledge Networks  
 SY) Graph Convolutional Network  
