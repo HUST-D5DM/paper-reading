@@ -1,5 +1,9 @@
 # paper-reading  
 
+### 20190305   
+SY) Wisfeiler-Lehman Algorithm   
+
+
 ### 20190227  
 ZRT) Modeling Personalized Dynamics of Social Network and Opinion at Individual Level  
 FZX) Attributed Network Embedding for Incomplete Structure Information
