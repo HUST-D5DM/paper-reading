@@ -1,6 +1,9 @@
 # paper-reading  
 
 ### 20190305   
+PX) GraphRNN
+
+### 20190305   
 SY) Wisfeiler-Lehman Algorithm   
 
 
