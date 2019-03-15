@@ -1,7 +1,8 @@
 # paper-reading  
 
-### 20190305   
+### 20190312   
 PX) GraphRNN
+ZRT) ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation  
 
 ### 20190305   
 SY) Wisfeiler-Lehman Algorithm   
