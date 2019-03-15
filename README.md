@@ -3,6 +3,7 @@
 ### 20190312   
 PX) GraphRNN  
 ZRT) ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation  
+SY) How powerful is Graph Convolutional Network?  
 
 ### 20190305   
 SY) Wisfeiler-Lehman Algorithm   
