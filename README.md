@@ -2,6 +2,7 @@
 
 ### 20190326
 ZRT) Network Structure and Transfer Behaviors Embedding via Deep Prediction Model  
+SY) Graph Attention Networks   
 
 ### 20190312   
 PX) GraphRNN  
