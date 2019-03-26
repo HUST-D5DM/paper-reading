@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190326
+ZRT) Network Structure and Transfer Behaviors Embedding via Deep Prediction Model  
+
 ### 20190312   
 PX) GraphRNN  
 ZRT) ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation  
