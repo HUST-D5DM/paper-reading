@@ -1,7 +1,8 @@
 # paper-reading  
 
 ### 20190402
-ZRT) Collaborative Similarity Embedding for Recommender Systems  
+ZRT) Collaborative Similarity Embedding for Recommender Systems   
+SY) Survey on sampling methods for networks
 
 ### 20190326
 ZRT) Network Structure and Transfer Behaviors Embedding via Deep Prediction Model  
