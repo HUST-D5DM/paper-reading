@@ -12,7 +12,7 @@ SY) Survey on sampling methods for networks
 ### 20190326
 ZRT) Network Structure and Transfer Behaviors Embedding via Deep Prediction Model  
 SY) Graph Attention Networks   
-WL) Simultaneous Urban Region Function Discovery and Popularity Estimation via an Infinite Urbanization Process Model
+WL) Simultaneous Urban Region Function Discovery and Popularity Estimation via an Infinite Urbanization Process Model  
 
 ### 20190312   
 PX) GraphRNN  
@@ -25,7 +25,10 @@ SY) Wisfeiler-Lehman Algorithm
 
 ### 20190227  
 ZRT) Modeling Personalized Dynamics of Social Network and Opinion at Individual Level  
-FZX) Attributed Network Embedding for Incomplete Structure Information
+FZX) Attributed Network Embedding for Incomplete Structure Information  
+WL) Neural-Brane: Neural Bayesian Personalized Ranking for Attributed Network Embedding  
+
+  
 ### 20190220  
 ZRT) Representation Learning on Graphs with Jumping Knowledge Networks  
 SY) Graph Convolutional Network  
