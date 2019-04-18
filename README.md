@@ -12,6 +12,7 @@ SY) Survey on sampling methods for networks
 ### 20190326
 ZRT) Network Structure and Transfer Behaviors Embedding via Deep Prediction Model  
 SY) Graph Attention Networks   
+WL) Simultaneous Urban Region Function Discovery and Popularity Estimation via an Infinite Urbanization Process Model
 
 ### 20190312   
 PX) GraphRNN  
