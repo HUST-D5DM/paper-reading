@@ -1,5 +1,10 @@
 # paper-reading  
 
+### 20190417   
+SY) Adversarial Attacks on Neural Networks for Graph Data   
+
+
+
 ### 20190402
 ZRT) Collaborative Similarity Embedding for Recommender Systems   
 SY) Survey on sampling methods for networks
@@ -23,7 +28,6 @@ FZX) Attributed Network Embedding for Incomplete Structure Information
 ### 20190220  
 ZRT) Representation Learning on Graphs with Jumping Knowledge Networks  
 SY) Graph Convolutional Network  
-WL) Neural-Brane: Neural Bayesian Personalized Ranking for Attributed Network Embedding
 
 ### 20190108   
 SY) Seq2seq and Attention model   
