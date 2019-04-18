@@ -18,6 +18,7 @@ WL) Simultaneous Urban Region Function Discovery and Popularity Estimation via a
 PX) GraphRNN  
 ZRT) ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation  
 SY) How powerful is Graph Convolutional Network?  
+WL)WhatWe Read, WhatWe Search:Media Attention and Public Attention Among 193 Countries  
 
 ### 20190305   
 SY) Wisfeiler-Lehman Algorithm   
