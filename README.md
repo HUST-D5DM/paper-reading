@@ -23,6 +23,7 @@ FZX) Attributed Network Embedding for Incomplete Structure Information
 ### 20190220  
 ZRT) Representation Learning on Graphs with Jumping Knowledge Networks  
 SY) Graph Convolutional Network  
+WL) Neural-Brane: Neural Bayesian Personalized Ranking for Attributed Network Embedding
 
 ### 20190108   
 SY) Seq2seq and Attention model   
