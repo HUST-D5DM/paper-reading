@@ -1,5 +1,9 @@
 # paper-reading  
 
+### 20190521   
+SY) Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning   
+
+
 ### 20190417   
 SY) Adversarial Attacks on Neural Networks for Graph Data  
 WL) survey_spatial  
