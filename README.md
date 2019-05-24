@@ -2,7 +2,8 @@
 
 ### 20190521   
 SY) Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning   
-FZX) Session-based Social Recommendation via Dynamic Graph Attention Networks
+FZX) Session-based Social Recommendation via Dynamic Graph Attention Networks  
+WL）A Unified Framework for Community Detection and Network Representation Learning
 
 ### 20190417   
 SY) Adversarial Attacks on Neural Networks for Graph Data  
