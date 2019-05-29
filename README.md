@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190528   
+SY) Signed graph convolutional networks   
+
 ### 20190521   
 SY) Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning   
 FZX) Session-based Social Recommendation via Dynamic Graph Attention Networks  
