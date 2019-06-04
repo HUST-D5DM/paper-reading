@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190604   
+SY) PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks   
+
 ### 20190528   
 SY) Signed graph convolutional networks   
 
