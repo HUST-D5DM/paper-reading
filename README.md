@@ -3,11 +3,13 @@
 ### 20190604   
 SY) PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks   
 WL) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+
 FZX) AHNG Representation learning on attributed heterogeneous network
 
 ### 20190528   
 SY) Signed graph convolutional networks  
 WL) Heterogeneous Graph Attention Network
+
 FZX) Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions 
 
 ### 20190521   
