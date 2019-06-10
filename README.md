@@ -4,7 +4,8 @@
 SY) PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks   
 
 ### 20190528   
-SY) Signed graph convolutional networks   
+SY) Signed graph convolutional networks  
+WL) Heterogeneous Graph Attention Network
 
 ### 20190521   
 SY) Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning   
