@@ -2,6 +2,7 @@
 
 ### 20190604   
 SY) PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks   
+WL) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 
 ### 20190528   
 SY) Signed graph convolutional networks  
