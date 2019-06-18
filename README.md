@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190618   
+SY) Fast GCN via importance sampling   
+
 ### 20190604   
 SY) PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks   
 WL) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
