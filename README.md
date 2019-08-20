@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190820   
+Given talk by Fanghua Ye   
+
 ### 20190625   
 SY) Knowledge graph attntion networks for recommendation   
 
