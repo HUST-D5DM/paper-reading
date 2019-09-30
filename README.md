@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20190929   
+DGL: An Introduction of Deep Graph Learning   
+
 ### 20190820   
 Given talk by Fanghua Ye   
 
