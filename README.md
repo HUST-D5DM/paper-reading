@@ -4,7 +4,7 @@
 DGL: An Introduction of Deep Graph Learning   
 
 ### 20190820   
-Given talk by Fanghua Ye   
+Given Talk by Fanghua Ye   
 
 ### 20190625   
 SY) Knowledge graph attntion networks for recommendation   
