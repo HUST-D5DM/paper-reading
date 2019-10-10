@@ -1,5 +1,8 @@
 # paper-reading  
 
+### 20191010   
+GCN Reviews
+
 ### 20190929   
 DGL: An Introduction of Deep Graph Learning   
 
